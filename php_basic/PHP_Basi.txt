@@ -1,0 +1,50 @@
+PHP_INT_MAX - php မှာ သိုလှောင်နိုင်တဲ့ အများဆုံး ဂဏန်း ပါမာဏ
+
+is_int() - php မှာ ကိုယ်ရေးတဲ့စာက integer ဟုတ်မဟုတ် ကို စစ်
+Double - ဒဿမကိန်းပါတဲ့တန်ဖိုး (float data type)
+Integer and Double ပေါင်းလျှင် double တန်ဖိုးရ
+Boolean only can assign ( True and False) 
+0 - zero is false in Boolean
+Blank string = false (in boolean)
+Zero string = false (in boolean)
+String with value = true (in boolean)
+Null value = false (in boolean)
+
+Null Vs Blank 
+
+Null မှာ 
+
+$a = null ဆိုရင်  $a အတွက် address တစ်ခုသာရှိပြီး null အတွက် address မရှိပါ။
+
+Blank မှာ
+
+$a = “”;  ဆိုရင် $a အတွက် address တစ်ခုရှိပြီး “” အတွက် address တစ်ခုရှိ စုစုပေါင်း ၂ ခုရှိ။
+
+Here Document
+
+If you want to use (here document) you have to start with <<<start and end with start 
+
+Constant variable
+
+Constant value တွေက အပြောင်းအလဲလို့မရ။
+သုံးမယ်ဆို define နဲ့သုံးရမည်။
+
+define(“name”,”value”)
+Reassign ပြန်လုပ်လို့မရ
+ 
+Define မှာ variable name တွေကို အကြီးနဲ့သာရေးသင့်။
+
+Arithmetic Operator
+
+Arithmetic operator ( + - * / % ++ == )
+
+Post and Get Method
+ 
+
+Post method = data encryption 
+Get method = show data quarry
+
+Action
+
+Action ဆိုတာ အခြား file ကို link ချိတ်ပေးတာ။
+isset() mean (check the variable name)
